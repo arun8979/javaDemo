@@ -1,0 +1,10 @@
+basic and advance java
+data types 
+type casting
+condition
+loop
+type conversion
+type permotion => if i have two variable and both the data type is 
+    byte and i am trying to multiply both the variable like one is 30 
+    another is 10 so the multiply is 300 and 300 is out of rnage so type 
+    permotion help to permote to int
